@@ -7,7 +7,7 @@ const About = () => {
     setMore(!more);
   };
   return (
-    <div className=" h-screen text-white tracking-wide flex flex-col place-content-center bg-[url('../../public/hero_about.jpeg')] bg-cover bg-no-repeat">
+    <div className=" h-screen text-white tracking-wide flex flex-col bg-fixed place-content-center bg-[url('../../public/hero_about.jpeg')] bg-cover bg-no-repeat">
       <div className="flex flex-col place-content-center backdrop-blur-sm bg-black/50 h-full p-5">
         <div className="flex p-2 font-bold text-xl sm:text-2xl">
           <p>About</p>
