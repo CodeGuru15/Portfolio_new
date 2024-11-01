@@ -7,7 +7,7 @@ const HeroSection = () => {
         <span>PAL</span>
       </div>
       <div>
-        <span className=" text-xl font-semibold">
+        <span className=" text-xl sm:text-3xl tracking-wide font-bold">
           <span>WEB</span> DEVELOPER
         </span>
       </div>
